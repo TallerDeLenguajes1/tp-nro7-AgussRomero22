@@ -1,0 +1,7 @@
+C:\Users\Usuario\Desktop\TP7\tp-nro7-AgussRomero22\SolucionTP7\TP7\bin\Debug\TP7.exe.config
+C:\Users\Usuario\Desktop\TP7\tp-nro7-AgussRomero22\SolucionTP7\TP7\bin\Debug\TP7.exe
+C:\Users\Usuario\Desktop\TP7\tp-nro7-AgussRomero22\SolucionTP7\TP7\bin\Debug\TP7.pdb
+C:\Users\Usuario\Desktop\TP7\tp-nro7-AgussRomero22\SolucionTP7\TP7\obj\Debug\TP7.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\TP7\tp-nro7-AgussRomero22\SolucionTP7\TP7\obj\Debug\TP7.exe
+C:\Users\Usuario\Desktop\TP7\tp-nro7-AgussRomero22\SolucionTP7\TP7\obj\Debug\TP7.pdb
+C:\Users\Usuario\Desktop\TP7\tp-nro7-AgussRomero22\SolucionTP7\TP7\obj\Debug\TP7.csprojAssemblyReference.cache
